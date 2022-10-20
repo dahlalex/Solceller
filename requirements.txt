@@ -1,0 +1,7 @@
+streamlit
+streamlit_option_menu
+streamlit_lottie
+base64
+plotly.express 
+plotly.graph_objects 
+pandas 
