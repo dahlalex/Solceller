@@ -6,7 +6,7 @@ energipolitiken. Överenskommelsen utgör en långsiktig plan för Sveriges ener
 och sätter upp ett mål om att Sverige ska ha 100 % "förnybar"* elproduktion år 2040. 
 (energimyndigheten.se)
   * *Nu vill Moderaterna och kristdemokraterna tillsammans med liberalerna att 
-  målet ska vara att uppnå ett fossilfritt – istället för förnybart – elsystem.
+  målet ska vara att uppnå ett fossilfritt – istället för förnybart – elsystem.*
 
 I dagsläget utgör solkraft bara en liten andel av Sveriges elproduktion. Detta väckte 
 ett stort intresse hos mig för förnybar elproduktion i stort och solkraft i synerhet.
