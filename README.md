@@ -27,5 +27,5 @@ via solkraft ser ut i dagsläget och vad det finns för statistik kring solcelle
 
 - [Energimyndigheten](http://www.energimyndigheten.se/statistik/solstatistik/)
 - [SCB](https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/manatlig-elstatistik-och-byten-av-elleverantor/)
-- [Streanlit](https://streamlit.io/)
+- [Streamlit](https://streamlit.io/)
 
