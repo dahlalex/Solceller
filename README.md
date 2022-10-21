@@ -3,9 +3,9 @@
 ## Projektbeskrevning:
 I juni 2016 slöt fem riksdagspartier en ramöverenskommelse om den svenska 
 energipolitiken. Överenskommelsen utgör en långsiktig plan för Sveriges energipolitik 
-och sätter upp ett mål om att Sverige ska ha 100 % "förnybar"* elproduktion år 2040. 
+och sätter upp ett mål om att Sverige ska ha 100 % *"förnybar"* elproduktion år 2040. 
 (energimyndigheten.se)
-  * *Nu vill Moderaterna och kristdemokraterna tillsammans med liberalerna att 
+   *Nu vill Moderaterna och kristdemokraterna tillsammans med liberalerna att 
   målet ska vara att uppnå ett fossilfritt – istället för förnybart – elsystem.*
 
 I dagsläget utgör solkraft bara en liten andel av Sveriges elproduktion. Detta väckte 
