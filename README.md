@@ -14,7 +14,7 @@ Så jag har bestämt mig för att titta närmare på detta.
 Att undersöka om sveriges elproduktion och sprida kunskap och intresse av solkraft.
 
 ## Projektmål:
-Att göra en web app via open source verktyg som visar hur Sveriges produktion av el 
+Att göra en web app via open source verktyg ([Streamlit](https://streamlit.io/)) som visar hur Sveriges produktion av el 
 vis solkraft ser ut i dagsläget och vad det finns för statistik kring solceller.
 
 ## Projektperiod: 
