@@ -17,9 +17,15 @@ Så jag har bestämt mig för att titta närmare på detta.
 Att undersöka om sveriges elproduktion och sprida kunskap och intresse av solkraft.
 
 ## Projektmål:
-Att göra en web app via open source verktyg ([Streamlit](https://streamlit.io/)) som visar hur Sveriges produktion av el 
+Att göra en web app via open source verktyg som visar hur Sveriges produktion av el 
 via solkraft ser ut i dagsläget och vad det finns för statistik kring solceller.
 
 ## Projektperiod: 
 20 dagar, från 10-10-2022 till 30-10-202
+
+## Källor:
+
+- [Energimyndigheten](http://www.energimyndigheten.se/statistik/solstatistik/)
+- [SCB](https://www.scb.se/hitta-statistik/statistik-efter-amne/energi/tillforsel-och-anvandning-av-energi/manatlig-elstatistik-och-byten-av-elleverantor/)
+- [Streanlit](https://streamlit.io/)
 
