@@ -21,7 +21,7 @@ Att göra en web app via open source verktyg som visar hur Sveriges produktion a
 via solkraft ser ut i dagsläget och vad det finns för statistik kring solceller.
 
 ## Projektperiod: 
-20 dagar, från 10-10-2022 till 30-10-202
+20 dagar; från 10-10-2022 till 30-10-202
 
 ## Källor:
 
